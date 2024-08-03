@@ -2,3 +2,5 @@ yt-dlp
 pywavelets
 librosa
 pydub
+matplotlib
+numpy
